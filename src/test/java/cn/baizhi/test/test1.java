@@ -9,5 +9,6 @@ public class test1 {
     public void  t()
     {
         System.out.println(11);
+        System.out.println(22);
     }
 }
